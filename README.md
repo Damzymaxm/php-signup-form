@@ -1,2 +1,2 @@
 # php-signup-form
-this is a simple php signup form that stores inputs to db and also validates user inputs
+This is a php signup form that stores inputs to db and also validates user inputs
